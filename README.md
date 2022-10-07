@@ -1,4 +1,4 @@
-👋 Hi, I’m @Mickael Accipe-Rabot
+👋 Hi, I’m Mickael Accipe-Rabot as web developer
 
 💻 I’m working for AccessiWay : the web accessibility solution
 
