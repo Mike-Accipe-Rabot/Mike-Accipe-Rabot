@@ -1,5 +1,5 @@
-👋 Hi, I’m Mickael Accipe-Rabot as web developer
+👋 Hi, I’m Mickael Accipe-Rabot
 
-💻 I’m working for AccessiWay : the web accessibility solution
+💻 I’m working as web developer for AccessiWay : the web accessibility solution
 
 🌐 We want to make the web a better place !
